@@ -1,2 +1,2 @@
 # hello-world
- Elso feladat
+ Elso feladat. Nem
